@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tapraj Pathak 👋
 
-<!--
-**Tapraj-Pathak/Tapraj-Pathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student | MERN Stack Developer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate Computer Engineering student with a strong foundation in C, C++, Python, and JavaScript. My main focus is web development, and I have hands-on experience building full-stack applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+
+## 🔥 Key Skills
+- Programming Languages: C, C++, Python, JavaScript
+- Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- Always eager to learn and collaborate
+
+## 🚀 Featured Project
+- [Chattenger](https://chattengerbyjaaule.onrender.com/) — A real-time chat application built with the MERN stack.
+
+## 🌐 Connect With Me
+- [LinkedIn](https://np.linkedin.com/in/tapraj-pathak-22677a348)
+- [Twitter (X)](https://x.com/PathakTapraj)
+
+---
+
+I'm open to collaborations, internships, and interesting tech projects. Let's connect!
