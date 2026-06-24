@@ -12,7 +12,7 @@ I am a passionate Computer Engineering student with a strong foundation in C, C+
 - Always eager to learn and collaborate
 
 ## 🚀 Featured Project
-- [Chattenger](https://chattengerbyjaaule.onrender.com/) — A real-time chat application built with the MERN stack.
+- [Chattenger](https://github.com/Tapraj-Pathak/Chat-App) — A real-time chat application built with the MERN stack.
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://np.linkedin.com/in/tapraj-pathak-22677a348)
